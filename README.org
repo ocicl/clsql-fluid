@@ -1,0 +1,10 @@
+* clsql-fluid
+
+clsql-fluid working separate version
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/html/clsql-fluid.git   |
+| commit  | 231b937  |
+| systems | clsql-fluid |
+|---------+-------------------------------------------|
+
